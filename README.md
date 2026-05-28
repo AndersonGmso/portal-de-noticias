@@ -1,7 +1,9 @@
 <h1>Portal de notícias</h1>
 <h2>Projeto de um Portal de notícias desenvolvido durante as aulas de Grid na Rocketseat.</h2>
 
-<img width="1916" height="1072" alt="image" src="https://github.com/user-attachments/assets/3168e60b-9e46-40b5-977a-9f1617fe1102"/>
+<a href="https://andersongmso.github.io/portal-de-noticias/" target="_blank">
+<img width="1916" height="1072" alt="Projeto portal de notícias" src="https://github.com/user-attachments/assets/3168e60b-9e46-40b5-977a-9f1617fe1102"/>
+</a>
 
 <h2>🚀 Tecnologias</h2>
 
