@@ -19,15 +19,3 @@
 <h2>Projeto</h2>
 <p>Nesse projeto feito durante as aulas do curso FullStack da Rocketseat, desenvolvi um portal de notícias para praticar o meu conhecimento com o Grid!</p>
 <strong>ps: a página não é funcional, foi feita apenas com o intuito de aprimorar minhas habilidades e conhecer mais sobre HTML e CSS</strong>
-
-<h2>Esse projeto usa:</h2>
-
-<ul>
-<li>CSS intermediário/avançado
-<li>Flexbox</li>
-<li>CSS Grid</li>
-<li>Position</li>
-<li>Hover transitions</li>
-<li>Design System</li>
-<li>Visual Components</li>
-</ul>
